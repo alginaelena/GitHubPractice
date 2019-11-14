@@ -4,6 +4,7 @@ public class FirstTest {
         System.out.println("How are your");
         System.out.println("I'm doing good");
         System.out.println("What are you planning?");
+        System.out.println("I'm going to school");
         
     }
 }
