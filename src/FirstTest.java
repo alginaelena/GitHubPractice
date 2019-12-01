@@ -6,6 +6,7 @@ public class FirstTest {
         System.out.println("What are you planning?");
         System.out.println("I'm going to school");
         System.out.println("Ha ha ha");
+        System.out.println("git new");
 
         
     }
